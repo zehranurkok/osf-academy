@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zehranurkok/osf-academy/static/css/main.8b6523fc.chunk.css",
+    "main.js": "/zehranurkok/osf-academy/static/js/main.9d306a77.chunk.js",
+    "main.js.map": "/zehranurkok/osf-academy/static/js/main.9d306a77.chunk.js.map",
+    "runtime-main.js": "/zehranurkok/osf-academy/static/js/runtime-main.28db0f96.js",
+    "runtime-main.js.map": "/zehranurkok/osf-academy/static/js/runtime-main.28db0f96.js.map",
+    "static/js/2.14b09178.chunk.js": "/zehranurkok/osf-academy/static/js/2.14b09178.chunk.js",
+    "static/js/2.14b09178.chunk.js.map": "/zehranurkok/osf-academy/static/js/2.14b09178.chunk.js.map",
+    "static/js/3.6fcb7567.chunk.js": "/zehranurkok/osf-academy/static/js/3.6fcb7567.chunk.js",
+    "static/js/3.6fcb7567.chunk.js.map": "/zehranurkok/osf-academy/static/js/3.6fcb7567.chunk.js.map",
+    "index.html": "/zehranurkok/osf-academy/index.html",
+    "static/css/main.8b6523fc.chunk.css.map": "/zehranurkok/osf-academy/static/css/main.8b6523fc.chunk.css.map",
+    "static/js/2.14b09178.chunk.js.LICENSE.txt": "/zehranurkok/osf-academy/static/js/2.14b09178.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/zehranurkok/osf-academy/static/media/product-two.42e21e4b.jpg",
+    "static/media/f-girl.df734350.png": "/zehranurkok/osf-academy/static/media/f-girl.df734350.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28db0f96.js",
+    "static/js/2.14b09178.chunk.js",
+    "static/css/main.8b6523fc.chunk.css",
+    "static/js/main.9d306a77.chunk.js"
+  ]
+}
